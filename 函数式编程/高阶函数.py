@@ -51,3 +51,8 @@
 # if __name__=="__main__":
 #     now()
 
+#偏函数的学习
+
+
+if __name__=="__main__":
+    print(int("127",base=8))
